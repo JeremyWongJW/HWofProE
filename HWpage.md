@@ -4,7 +4,7 @@
 [Bing](https://www.bing.com/)  
 [README](https://github.com/JeremyWongJW/HWofProE/blob/main/README.md)
 
-![imageinthedirectory](JeremyWongJW/HWofProE/KB.jpg)  
+![imageinthedirectory](/JeremyWongJW/HWofProE/KB.jpg)  
 ![imageontheweb](https://th.bing.com/th/id/OIP.dU_APXN0Djf9AC1OjSIgRAHaD4?pid=ImgDet&rs=1)
 
 ```c++
