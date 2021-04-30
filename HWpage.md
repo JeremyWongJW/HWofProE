@@ -17,3 +17,9 @@ int main(){
 > bq1  
 > bq2
 >> bq2.2
+
+* list
+* list
+
+1. list
+2. list
