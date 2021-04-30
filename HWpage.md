@@ -33,5 +33,6 @@ int main(){
 *italic*  
 ~~stikethrough~~
 
----   Which content goes on a given page or what the content is doesn't really matter. You are practicing creating mark down and managing a project using Git/GitHub in this challenge.
-    By the way, this challenge document was created with markdown!
+---
+  Which content goes on a given page or what the content is doesn't really matter. You are practicing creating mark down and managing a project using Git/GitHub in this challenge.
+  By the way, this challenge document was created with markdown!
