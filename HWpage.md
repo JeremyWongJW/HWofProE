@@ -29,5 +29,5 @@ int main(){
 | table | table |
 | table | table |
 
-** bolded **
-* italic *
+**bolded**
+*italic*
