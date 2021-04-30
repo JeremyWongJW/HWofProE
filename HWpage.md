@@ -8,7 +8,6 @@
 ![imageontheweb](https://th.bing.com/th/id/OIP.dU_APXN0Djf9AC1OjSIgRAHaD4?pid=ImgDet&rs=1)
 
 ```c++
-printf("Hello World")
-printf("yeah")
+cout<<"hello World";
 ```
 
