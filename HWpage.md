@@ -24,6 +24,6 @@ int main(){
 1. list
 2. list
 
-|table|table|
-|table|table|
-|table|table|
+| table | table |
+| table | table |
+| table | table |
