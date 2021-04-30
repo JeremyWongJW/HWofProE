@@ -29,5 +29,6 @@ int main(){
 | table | table |
 | table | table |
 
-**bolded**
+**bolded**  
 *italic*
+~~stikethrough~~
