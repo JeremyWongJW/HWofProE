@@ -32,6 +32,7 @@ int main(){
 **bolded**  
 *italic*  
 ~~stikethrough~~
+
 * 
   Which content goes on a given page or what the content is doesn't really matter. You are practicing creating mark down and managing a project using Git/GitHub in this challenge.
 
