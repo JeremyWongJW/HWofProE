@@ -9,6 +9,8 @@
 
 ```c++
 using namespace std;
-cout<<"hello World";
+int main(){
+  cout<<"hello World";
+}
 ```
 
